@@ -1,6 +1,6 @@
 # imuke
 基于python的智慧树自动看课软件，
-<b>可直接下载imukedec.exe文件使用，不需要任何配置</b>
+<b>可直接下载打包成exe可执行文件的imukedec.rar文件使用，不需要任何配置</b>
 
 <b>本软件仅供selenium测试学习交流使用，请下载的24小时内删除</b>
 
