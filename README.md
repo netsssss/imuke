@@ -1,4 +1,4 @@
-# imuke
+# imuke -致不便操作鼠标的人们
 基于python的智慧树自动看课软件，
 <b>可直接下载打包成exe可执行文件的imukedec.rar文件使用，不需要任何配置</b>
 
